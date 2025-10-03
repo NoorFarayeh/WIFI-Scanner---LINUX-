@@ -21,7 +21,6 @@ File size: ~7.9 MB (includes Python runtime)
 ## System Requirements
 
 * Linux (any modern distribution)
-* x86_64 architecture
 * `nmcli` (NetworkManager) or `iw` (wireless-tools)
 * Root access for scanning
 
@@ -138,5 +137,6 @@ Windows version: [WiFi-Scanner for Windows](https://github.com/NoorFarayeh/WIFI-
 
 
 MIT License - See LICENSE file for details
+
 
 
