@@ -14,7 +14,7 @@ A standalone Linux application for analyzing nearby WiFi networks and generating
 
 ## Download
 
-**Latest Release**: [Download wifi-scanner](https://github.com/NoorFarayeh/wifi-scanner-linux/releases/latest/download/wifi-scanner)
+**Latest Release**: [Download wifi-scanner](https://github.com/NoorFarayeh/WIFI-Scanner---LINUX-/releases/tag/v1)
 
 File size: ~7.9 MB (includes Python runtime)
 
@@ -135,5 +135,6 @@ Built as a portfolio project showcasing real-world application development beyon
 Windows version: [WiFi-Scanner for Windows](https://github.com/NoorFarayeh/WIFI-Scanner)
 
 ## License
+
 
 MIT License - See LICENSE file for details
